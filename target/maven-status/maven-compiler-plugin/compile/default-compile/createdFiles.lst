@@ -1,0 +1,8 @@
+com\edusinho\mstdnrssbot\utils\mastodon\impl\MastodonUtilImpl.class
+com\edusinho\mstdnrssbot\MstdnRSSBot.class
+com\edusinho\mstdnrssbot\utils\rss\RssReader.class
+com\edusinho\mstdnrssbot\rss\pojo\abc\Item.class
+com\edusinho\mstdnrssbot\rss\pojo\abc\Channel.class
+com\edusinho\mstdnrssbot\rss\pojo\abc\Rss.class
+com\edusinho\mstdnrssbot\rss\pojo\abc\AtomLink.class
+com\edusinho\mstdnrssbot\utils\mastodon\MastodonUtil.class
